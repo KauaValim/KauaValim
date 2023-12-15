@@ -1,3 +1,5 @@
+<a href="https://github.com/KauaValim/KauaValim/blob/main/README.pt-br.md"><img alt="Static Badge" src="https://img.shields.io/badge/Idioma-Brasileiro-009900"></a>
+
 Hello! My name is Kauã Valim. And welcome to my github profile!
 
 - 🤓 I am currently an IT technical student
