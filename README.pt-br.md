@@ -3,11 +3,19 @@
 Olá! Meu nome é Kauã Valim. E seja bem vindo ao meu perfil do github!
 
 - 🤓 Atualmente eu sou estudante técnico de TI
+- 🧑‍💻 Gosto de desenvolver soluções que resolvam problemas
+- 📚 E eu sempre gostei de aprender
 
-<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauavalim&title_color=ff9900&text_color=ffcc00&bg_color=75,000000,888888&border_color=ffff00&locale=pt-br)](https://github.com/kauavalim/github-readme-stats)
-<img a="status" src="https://github-readme-stats.vercel.app/api?username=kauavalim&title_color=ff9900&text_color=ffcc00&bg_color=75,000000,888888&icon_color=ffaa00&show_icons=true&locale=pt-br&ring_color=ffbb00&rank_icon=github&border_color=ffff00"></span>
 
-## Ferramentas utilizadas
+
+## Meus status no github dizem que sou iniciante, mas posso garantir que esta posição vai mudar.
+
+<br>
+
+<span style="">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauavalim&title_color=ffffff&text_color=ffffff&bg_color=90,0040ff,000000&border_color=ffffff&locale=pt-br)
+![My stats](https://github-readme-stats.vercel.app/api?username=kauavalim&title_color=ffffff&text_color=ffffff&bg_color=90,0040ff,000000&icon_color=ffffff&show_icons=true&ring_color=ffffff&rank_icon=github&border_color=ffffff&locale=pt-br)</span>
+
+## Ferramentas que utilizo
 <div style="display: inline_block"><br>
 <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
 <img alt="netbeans" src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white">
@@ -21,7 +29,7 @@ Olá! Meu nome é Kauã Valim. E seja bem vindo ao meu perfil do github!
 <img alt="" src="">  
 </div>
 
-## Atualmente estou aprendendo:
+## Atualmente estou aprendendo
 <div style="display: inline_block">
 <br>
 <img alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" style="padding:10;border-radius:7px">
@@ -32,6 +40,8 @@ Olá! Meu nome é Kauã Valim. E seja bem vindo ao meu perfil do github!
 <img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60px" style="padding:10;border-radius:7px">
 </div>
 <br>
+
+## Se quiser, você pode me seguir, clicando no badge abaixo
 <div style="display:flex;column-gap:7px;justify-content:center;width:max-content;height:25px;padding:7px;border-radius:7px">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/kauavalim/kauavalim?label=Visualiza%C3%A7%C3%B5es">
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FKauaValim"><img alt="followers" src="https://img.shields.io/github/followers/kauavalim?label=Seguidores&style=social"></a>
