@@ -1,6 +1,6 @@
 <a href="https://github.com/KauaValim/KauaValim/blob/main/README.md"><img alt="Static Badge" src="https://img.shields.io/badge/Language-English-ff0000"></a>
 
-Olá! Meu nome é Kauã Valim. E seja bem vindo ao meu prfil do github!
+Olá! Meu nome é Kauã Valim. E seja bem vindo ao meu perfil do github!
 
 - 🤓 Atualmente eu sou estudante técnico de TI
 
