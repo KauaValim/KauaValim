@@ -8,7 +8,7 @@
 
 
 
-## My github statuses say I'm a beginner, but I can count on this scale to tip.
+## My github statuses say I'm a beginner, but I can guarantee this position will change.
 
 <br>
 
