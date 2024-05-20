@@ -1,50 +1,30 @@
 <a href="https://github.com/KauaValim/KauaValim/blob/main/README.pt-br.md"><img alt="Static Badge" src="https://img.shields.io/badge/Idioma-Brasileiro-009900"></a>
 
-## *Hello! My name is* **Kauã Valim**. *And welcome to my github profile!*
-
-- 🤓 I am currently an IT technical student
-- 🧑‍💻 I like to develop solutions that would solve problems
-- 📚 And I always liked learning
+# 💫 About Me:
+🤓 I am currently an IT technical student from Brazil <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="14" vertical-align="text-bottom"><br>🧑‍💻 That likes to develop solutions that would solve problems,<br>💻 Tech enthusiast,<br>🕹️ Player,<br>🫱🏼‍🫲🏼 Compromised,<br>📚 And a learning addicted.
 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## My github statuses until now.
+# 📊 GitHub Stats:
 
-<br>
+<span>
+<a  href="https://github.com/anuraghazra/github-readme-stats">
+<img height="200" allign="center" src="https://github-readme-stats.vercel.app/api?username=KauaValim&title_color=FFB02E&text_color=737373&show_icons=true&icon_color=FFB02E&theme=dark&card_width=490px&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&rank_icon=github"/>
+<img height="200" allign="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaValim&title_color=FFB02E&text_color=737373&theme=dark&card_width=490&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=donut">
+</a>
+</span>
 
-<span style="">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauavalim&title_color=ffffff&text_color=ffffff&bg_color=90,0040ff,000000&border_color=ffffff)
-![My stats](https://github-readme-stats.vercel.app/api?username=kauavalim&title_color=ffffff&text_color=ffffff&bg_color=90,0040ff,000000&icon_color=ffffff&show_icons=true&ring_color=ffffff&rank_icon=github&border_color=ffffff)</span>
+[![GitHub Streak](https://streak-stats.demolab.com?user=KauaValim&theme=dark&hide_border=true&locale=pt_BR&card_width=880&card_height=200&background=00000000&stroke=737373&ring=FFB02E&fire=FFB02E&currStreakNum=FF6723&sideNums=FFB02E&currStreakLabel=FF6723&sideLabels=737373&dates=737373&excludeDaysLabel=737373)](https://git.io/streak-stats)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KauaValim&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&title=Commits,PullRequest,Followers,Repositories,Experience)
 
-## Tools that I use
-<div style="display: inline_block"><br>
-<img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white">
-<img alt="netbeans" src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache-NetBeans-IDE&logoColor=white">
-<img alt="inkscape" src="https://img.shields.io/badge/Inkscape-000000.svg?style=for-the-badge&logo=Inkscape&logoColor=white">
-<img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
-<img alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white">
-<img alt="github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
-<img alt="git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
-<img alt="linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black">
-<img alt="windows" src="https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white">
-<img alt="" src="">  
-</div>
+### ✍️ Random Dev Quote
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming&bg_color=00000000&quote_color=FFB02E&author_color=FF6723&accent_color=737373&border_color=00000000)
 
-## Currently, I'm learning
-<div style="display: inline_block">
-<br>
-<img alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" style="padding:10;border-radius:7px">
-<img alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px" style="padding:10;border-radius:7px">
-<img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" style="padding:10;border-radius:7px">
-<img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60px" style="padding:10;border-radius:7px">
-<img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60px" style="padding:10;border-radius:7px">
-<img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60px" style="padding:10;border-radius:7px">
-</div>
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=KauaValim&icon=5&color=12)](https://visitcount.itsvg.in)
 
-## If you want, you can follow me by clicking on the badge below
-<div style="display:flex;column-gap:7px;justify-content:center;width:max-content;height:25px;padding:7px;border-radius:7px">
-<img alt="views" src="https://img.shields.io/github/watchers/kauavalim/kauavalim.svg">
-<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FKauaValim"><img alt="followers" src="https://img.shields.io/github/followers/kauavalim.svg?style=social&label=Follow&maxAge=2592000"></a>
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
