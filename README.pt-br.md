@@ -8,7 +8,7 @@ Olá! Meu nome é Kauã Valim. E seja bem vindo ao meu perfil do github!
 
 
 
-## Meus status no github dizem que sou iniciante, mas posso garantir que esta posição vai mudar.
+## Meus status no github até agora.
 
 <br>
 
