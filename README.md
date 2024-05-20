@@ -10,12 +10,12 @@
 
 # 📊 GitHub Stats:
 
-<a allign="center" href="https://github.com/anuraghazra/github-readme-stats">
+<a allign="center" >
 <img height="200" allign="center" src="https://github-readme-stats.vercel.app/api?username=KauaValim&title_color=FFB02E&text_color=737373&show_icons=true&icon_color=FFB02E&theme=dark&card_width=400px&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&rank_icon=github"/>
 <img height="200" allign="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaValim&title_color=FFB02E&text_color=737373&theme=dark&card_width=320&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact">
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KauaValim&theme=dark&hide_border=true&card_width=1000&card_height=200&background=00000000&stroke=737373&ring=FFB02E&fire=FFB02E&currStreakNum=FF6723&sideNums=FFB02E&currStreakLabel=FF6723&sideLabels=737373&dates=737373&excludeDaysLabel=737373)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=KauaValim&theme=dark&hide_border=true&card_width=1000&card_height=200&background=00000000&stroke=737373&ring=FFB02E&fire=FFB02E&currStreakNum=FF6723&sideNums=FFB02E&currStreakLabel=FF6723&sideLabels=737373&dates=737373&excludeDaysLabel=737373)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KauaValim&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&title=Commits,PullRequest,Followers,Repositories,Experience)
@@ -24,6 +24,6 @@
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming&bg_color=00000000&quote_color=FFB02E&author_color=FF6723&accent_color=737373&border_color=00000000)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KauaValim&icon=5&color=12)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=yAg157T37&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
