@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 
 <a  href="https://github.com/anuraghazra/github-readme-stats">
-<img height="200" allign="center" src="https://github-readme-stats.vercel.app/api?username=KauaValim&title_color=FFB02E&text_color=737373&show_icons=true&icon_color=FFB02E&theme=dark&card_width=490px&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&rank_icon=github"/>
+<img height="200" allign="center" src="https://github-readme-stats.vercel.app/api?username=KauaValim&title_color=FFB02E&text_color=737373&show_icons=true&icon_color=FFB02E&theme=dark&card_width=410px&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&rank_icon=github"/>
 <img height="200" allign="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaValim&title_color=FFB02E&text_color=737373&theme=dark&card_width=410&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact">
 </a>
 
