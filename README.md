@@ -11,8 +11,8 @@
 # 📊 GitHub Stats:
 
 <a allign="center" href="https://github.com/anuraghazra/github-readme-stats">
-<img height="200" allign="center" src="https://github-readme-stats.vercel.app/api?username=KauaValim&title_color=FFB02E&text_color=737373&show_icons=true&icon_color=FFB02E&theme=dark&card_width=440px&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&rank_icon=github"/>
-<img height="200" allign="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaValim&title_color=FFB02E&text_color=737373&theme=dark&card_width=360&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact">
+<img height="200" allign="center" src="https://github-readme-stats.vercel.app/api?username=KauaValim&title_color=FFB02E&text_color=737373&show_icons=true&icon_color=FFB02E&theme=dark&card_width=430px&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&rank_icon=github"/>
+<img height="200" allign="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaValim&title_color=FFB02E&text_color=737373&theme=dark&card_width=350&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact">
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KauaValim&theme=dark&hide_border=true&card_width=1000&card_height=200&background=00000000&stroke=737373&ring=FFB02E&fire=FFB02E&currStreakNum=FF6723&sideNums=FFB02E&currStreakLabel=FF6723&sideLabels=737373&dates=737373&excludeDaysLabel=737373)](https://git.io/streak-stats)
