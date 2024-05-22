@@ -24,6 +24,5 @@
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?category=programming&bg_color=00000000&quote_color=FFB02E&author_color=FF6723&accent_color=737373&border_color=00000000)
 
 ---
-![](https://visitcount.itsvg.in/api?id=yAg157T37&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
